@@ -1,5 +1,5 @@
 /**
- * version 2
+ * version 2 online
  * @author matte
  *  programma per calcolare l'area e il perimetro di un quadrato dato 1 lato
  *
